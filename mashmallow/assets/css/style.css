@@ -1,0 +1,44 @@
+.background {
+    background-color: rgb(60, 55, 241);
+}
+
+.height {
+    height: 400px;
+}
+
+.background2 {
+    display: flex;
+    justify-content:center;
+    background-color: rgb(60, 55, 241);
+
+}
+.background3{
+    background-color: rgb(165,51,251);
+}
+.width{
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.speacil:hover{
+    background-color: rgb(25, 152, 225);
+    color: white;
+    text-emphasis-color: white;
+}
+.speacil2:hover{
+    border-color:aquamarine;
+}
+.width2{
+    width: 95%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.background4{
+    background-color: rgb(77,23,224);
+}
+.speacil:hover li,h1.price, .purchase-btn{
+    color: white ;
+}
+.pph:hover{
+    cursor: pointer;
+}
